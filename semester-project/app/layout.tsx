@@ -49,9 +49,7 @@ export default function RootLayout({
           <li>
             <Link href="/Contact_us">Contact us</Link>
           </li>
-          <li>
-            <Link href="/Footer">Footer</Link>
-          </li>
+         
         </ul>
       
       </nav> 
