@@ -20,14 +20,34 @@ export default function RootLayout({
       <body className={inter.className}>
       <nav className="flex justify-center p-14">
         <ul className="flex text-lg gap-4">
-          <li>
+        <li>
             <Link href="/">Home</Link>
+
           </li>
           <li>
-            <Link href="/about">About</Link>
+            <Link href="/">Featured Projects</Link>
+
           </li>
           <li>
-            <Link href="/showcase">Showcase</Link>
+            <Link href="/about">New Arrivals</Link>
+          </li>
+          <li>
+            <Link href="/showcase">Special Offers</Link>
+          </li>
+          <li>
+            <Link href="/showcase">Community and Engagement</Link>
+          </li>
+          <li>
+            <Link href="/showcase">User resources</Link>
+          </li>
+          <li>
+            <Link href="/showcase">Account</Link>
+          </li>
+          <li>
+            <Link href="/showcase">About us</Link>
+          </li>
+          <li>
+            <Link href="/showcase">Contact us</Link>
           </li>
         </ul>
       
