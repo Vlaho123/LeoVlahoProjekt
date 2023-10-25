@@ -29,25 +29,25 @@ export default function RootLayout({
 
           </li>
           <li>
-            <Link href="/about">New Arrivals</Link>
+            <Link href="/featured_products">New Arrivals</Link>
           </li>
           <li>
-            <Link href="/showcase">Special Offers</Link>
+            <Link href="/Special_Offers">Special Offers</Link>
           </li>
           <li>
-            <Link href="/showcase">Community and Engagement</Link>
+            <Link href="/Communit_&_Engagenment">Community and Engagement</Link>
           </li>
           <li>
-            <Link href="/showcase">User resources</Link>
+            <Link href="/User_resources">User resources</Link>
           </li>
           <li>
-            <Link href="/showcase">Account</Link>
+            <Link href="/Account">Account</Link>
           </li>
           <li>
-            <Link href="/showcase">About us</Link>
+            <Link href="/About_us">About us</Link>
           </li>
           <li>
-            <Link href="/showcase">Contact us</Link>
+            <Link href="/Contact_us">Contact us</Link>
           </li>
         </ul>
       
