@@ -25,11 +25,11 @@ export default function RootLayout({
 
           </li>
           <li>
-            <Link href="/">Featured Products</Link>
+            <Link href="/featured_products">Featured Products</Link>
 
           </li>
           <li>
-            <Link href="/featured_products">New Arrivals</Link>
+            <Link href="/New_Arrivals">New Arrivals</Link>
           </li>
           <li>
             <Link href="/Special_Offers">Special Offers</Link>
