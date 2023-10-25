@@ -25,7 +25,7 @@ export default function RootLayout({
 
           </li>
           <li>
-            <Link href="/">Featured Projects</Link>
+            <Link href="/">Featured Products</Link>
 
           </li>
           <li>
